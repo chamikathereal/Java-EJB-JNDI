@@ -4,6 +4,11 @@ A multi-module Java EE 7+ project demonstrating the use of **Enterprise Java Bea
 
 ---
 
+## 📽️ Demo Video
+[![Java CDI Project Demo](https://github.com/chamikathereal/Java-EJB-JNDI/blob/main/Java-EJB-JNDI.png)](https://youtu.be/3eMBZRCJQeM)
+
+---
+
 ## 📦 Project Modules
 
 This repository contains **three Maven projects** that work together:
