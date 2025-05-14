@@ -1,4 +1,4 @@
-# Java-EJB-JNDI
+# 🚀 Java-EJB-JNDI
 
 A multi-module Java EE 7+ project demonstrating the use of **Enterprise Java Beans (EJB)** and **Java Naming and Directory Interface (JNDI)** communication between a server-side application and multiple client applications. This project uses **GlassFish** as the application server and is built using **Maven**.
 
